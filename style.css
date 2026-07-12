@@ -58,19 +58,17 @@ h3{
 /* Hero Section */
 
 .hero{
-    text-align:center;
-    padding:40px 20px;
-}
+    position: relative;
+    text-align: center;
+    padding: 120px 20px;
 
-.hero h2{
-    color:green;
-    font-size:45px;
-}
+    background-image:
+        linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+        url("background.jpeg");
 
-.hero p{
-    font-size:24px;
-    color:#333;
-}
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 /* Slider */
 
