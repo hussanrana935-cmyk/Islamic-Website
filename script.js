@@ -1,6 +1,6 @@
 const images = [
     "background.jpeg",
-    "/mosque.jpeg",
+    "mosque.jpeg",
     "quran.jpg",
     "dua.jpg"
 ];
