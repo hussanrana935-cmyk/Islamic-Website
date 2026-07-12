@@ -1,8 +1,8 @@
 const images = [
-    "images/background.jpeg",
-    "images/mosque.jpeg",
-    "images/quran.jpg",
-    "images/dua.jpg"
+    "background.jpeg",
+    "/mosque.jpeg",
+    "quran.jpg",
+    "dua.jpg"
 ];
 
 let current = 0;
