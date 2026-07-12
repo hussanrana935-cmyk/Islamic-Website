@@ -74,15 +74,15 @@ h3{
 /* Slider */
 
 #slider{
-    width:900px;
-    max-width:95%;
-    height:450px;
+    width:700px;
+    max-width:90%;
+    height:400px;
     object-fit:cover;
     border-radius:20px;
-    box-shadow:0 0 20px gray;
     display:block;
-    margin:20px auto;
-    transition:1s;
+    margin:40px auto;
+    position:relative;
+    z-index:2;
 }
 
 /* Buttons */
